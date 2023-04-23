@@ -12,7 +12,7 @@ To get started with this project, follow these steps:
 Clone the repository to your local machine.
 Install the dependencies using npm install.
 Start the development server using npm start.
-Open the web application in your browser at http://localhost:3000.
+Open the web application in your browser at https://headphonenation.netlify.app/
 Usage
 To use the web application, follow these steps:
 
