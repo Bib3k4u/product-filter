@@ -1,0 +1,45 @@
+[
+  {
+    "name": "BoAt Wireless Earphones",
+    "description": "Best Wireless Earphones which lasts long",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1682276421/qh4pnxrkj3g9trcrnmpg.png",
+    "category": "Category 3",
+    "price": 1099
+  },
+  {
+    "name": "JBL Headphone-X",
+    "description": "Deep Noise Cancellation Bluetooth Headset  (Midnight, True Wireless)",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1681586101/it5vibs82q9cye4hh5kn.png",
+    "category": "Category 4",
+    "price": 800
+  },
+  {
+    "name": "BoAt Airdopes 161 with ASAP Charge",
+    "description": "10mm Drivers and 17 Hours Playback Bluetooth Headset  (Cool Sapphire, True Wireless)",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1679348726/xvah8d1zcojvgyzgemrp.png",
+    "category": "Category 3",
+    "price": 1000
+  },
+  {
+    "name": "Apple Mini Wireless Bluetooth Headset ",
+    "description": "Earphone Bluetooth Headset  (Black, True Wireless)",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1682276536/rppmacafy6ufnfnawxqj.png",
+    "category": "Category 1",
+    "price": 3000
+  },
+  {
+    "name": "GREEN BIRD in-Ear Truly Wireless Earbuds",
+    "description": "Type- Data Cable,Bluetooth 5.0 Bluetooth Headset  (SKY BLUE, True Wireless)",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1682276596/pzphoi0hsaqmixdciwgt.png",
+    "category": "Category 2",
+    "price": 2200
+  },
+  {
+    "name": "Apple Headset",
+    "description": "A branded black headphone piece with super Bass",
+    "image": "https://res.cloudinary.com/dwdalarn6/image/upload/v1681585988/alteuqmqnw29jlu1bk35.png",
+    "category": "Category 1",
+    "price": 1500
+  }
+
+]
