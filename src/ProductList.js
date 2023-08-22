@@ -28,7 +28,7 @@ function ProductList() {
 
   return (
     <div>
-      <h1 className=' m-4  pt-2 font-bold text-3xl text-center text-purple-700'>Products</h1>
+      <h1 className=' m-4  pt-2 font-bold text-3xl text-center text-purple-700'>Products Details</h1>
       <div className='font-bold p-8 text-xl text-center'>
         <label className=' m-8 text-purple-700'>
           Category:
